@@ -1,0 +1,125 @@
+.first{
+    display: flex;
+    justify-content: space-between;
+    margin: 100PX 0px;
+}
+
+.first-left{
+
+    width: 45%;
+   
+
+}
+
+.button-1{
+   background-color:orange ;
+   color:black;
+   font-size: large;
+  
+   border: none;
+   padding: 6px 10px;
+
+}
+
+
+.first-right{
+    width: 45%;
+   
+ 
+  
+
+}
+.first-right h2{
+    text-align: center;
+}
+
+.first-right img{
+    width:100%;
+    height:300px;
+}
+
+
+
+.second{
+ 
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+
+}
+
+.second-left{
+    width: 45%;
+   
+ 
+
+}
+.second-left img{
+    width: 80%;
+    height: 280px;
+}
+.second-right{
+    width: 45%; 
+  
+    margin-left: 7%;
+    text-align: justify;
+}
+
+.button-2{
+    background-color:orange;
+    border: none;
+    padding: 10px 20px;
+    font-size: large;
+  
+  
+}
+.button-2 a{
+    text-decoration: none;
+}
+
+
+.third{
+    margin-bottom: 100px;
+}
+
+
+.third-sub{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+  
+}
+
+
+
+.third-left{
+    width: 30%;
+    text-align: justify;
+    border-left: 7px solid orange;
+
+    margin-right: 15%;
+    box-shadow: 5px 5px 45px gray;
+    padding: 20px 50px;
+}
+.third-left h3{
+    text-align: center;
+}
+
+.third-right h3{
+    text-align: center;
+}
+.third-right{
+    width: 30%;
+    text-align: justify;
+    border-left: 7px solid rgb(224, 64, 125);
+    box-shadow: 5px 5px 45px gray;
+    padding: 20px 50px;
+  
+}
+
+
+
+.footer{
+    margin-top: 100px;
+    text-align: center;
+}
